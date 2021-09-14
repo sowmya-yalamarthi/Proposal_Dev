@@ -1,6 +1,6 @@
-# Proposal_Dev
 
-# HAND-IN HAND-OUT
+
+# proposal for HAND-IN HAND-OUT
 - We are proposing the technology stack based on JAVA with spring, and the front end with Angular.
 - It is a fully optimized frame work which helps to maintain and modify requirements.
 
