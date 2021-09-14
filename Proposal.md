@@ -39,15 +39,20 @@
  - Deployment of the application.
  
 
-- Budget is set by the size of the development team * average expected hours for developers per week.
-- Scope of work should be clearly divided into sprint buckets of time.
 
-## Backend language + framework (JAVA/Spring)
-
-## Backend free app host (Heroku)
-
-## Data host (Atlas MongoDB and SQL)
-
-## Front-end page plan (Build with Angular)
-
-## Front-end responsive design (Bootstrap)
+## Backend language + framework 
+- The backend language and framework we are using for our project would be 
+## JAVA / Spring
+## Backend free app host 
+- The Backend app host for our project would be 
+## HEROKU
+## Data host 
+- The data host we are planning to use is 
+## Atlas MongoDB and SQL
+## Front-end page plan 
+- The front end page we have planned for our project is
+## Build with Angular
+- which is used to build single page applications which maintains the same view while navigating to other pages.  
+## Front-end responsive design 
+- The Front-end responsive design would be
+## Bootstrap
