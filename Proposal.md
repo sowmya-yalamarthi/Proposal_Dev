@@ -13,17 +13,33 @@
 ## Sprint 4  (Start Date: 1st November 2021 - 15th November 2021)
 - Working with login and Authentication pages.
 
- end of semester GDP-1
+ End of semester GDP-1
+
+ GDP-2 
 
  ## Sprint 5  (Start Date: 12th January 2022 - 26th January 2022)
- - 
- ## Sprint 6  (Start Date: 26th January 2022 - 9th February 2022)
- ## Sprint 7  (Start Date: 9th Fabruary 2022 - 23rd February 2022)
- ## Sprint 8  (Start Date: 23rd February 2022 - 9th March 2022)
- ## Sprint 9  (Start Date: 9th March 2022 - 23rd March 2022)
- ## Sprint 10  (Start Date: 16th March 2022 - 30th March 2022)
+ - Create Database models and schema
 
-- Budget is set by the size of the development team * average expected hours for developerss per week.
+ ## Sprint 6  (Start Date: 26th January 2022 - 9th February 2022)
+ - Design web APIs
+
+ ## Sprint 7  (Start Date: 9th Fabruary 2022 - 23rd February 2022)
+ - Create APIs to fetch data from DB
+
+ ## Sprint 8  (Start Date: 23rd February 2022 - 9th March 2022)
+ - Design all the UI pages based on requirements
+
+ ## Sprint 9  (Start Date: 9th March 2022 - 23rd March 2022)
+ - Integration with both UI and backend.
+
+ ## Sprint 10  (Start Date: 16th March 2022 - 30th March 2022)
+ - Testing and fixing issues(if any)
+
+ ## Sprint 11  (Start Date: 30th March 2022 - 15th April 2022)
+ - Deployment of the application.
+ 
+
+- Budget is set by the size of the development team * average expected hours for developers per week.
 - Scope of work should be clearly divided into sprint buckets of time.
 
 ## Backend language + framework (JAVA/Spring)
