@@ -1,6 +1,7 @@
 # Proposal for HAND-IN HAND-OUT
 
 ![](LoginPage.png "loginpage")
+![](Blank_diagram.png "flow ")
 
 - Schedule & sprints are set by the GDP semesters (about every 2-weeks = a sprint)
 
