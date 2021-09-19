@@ -1,5 +1,7 @@
 # Proposal for HAND-IN HAND-OUT
 
+![LoginPage]("LoginPage.png")
+
 - Schedule & sprints are set by the GDP semesters (about every 2-weeks = a sprint)
 
 ### Sprint 1  (Start Date: 20 September 2021 - 4th October 2021)
