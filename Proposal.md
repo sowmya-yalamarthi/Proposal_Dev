@@ -12,6 +12,7 @@
 
 ![](LoginPage.png "loginpage")
 ![](Flow-Chart.jpeg "flow ")
+![](Register.png "RegisterPage ")
 
 
 
