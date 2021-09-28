@@ -65,6 +65,7 @@
 - The Front-end responsive design would be *Bootstrap*
 
 ## E-R diagram displayed and described:
+![](ERDiagram.png "ERDiagram")
 
 ## Consistent set of sample data in Excel, use one sheet for each entity:
 
