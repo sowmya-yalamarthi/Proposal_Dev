@@ -50,21 +50,21 @@
 
 ## Technology stack descriptions:
 
-## Backend language + framework 
+### Backend language + framework 
 - The backend language and framework we are using for our project would be *JAVA / Spring*
 - It is a fully optimized frame work which helps to maintain and modify requirements.
 
-## Backend free app host 
+### Backend free app host 
 - The Backend app host for our project would be *HEROKU*
-## Data host 
+### Data host 
 - The data host we are planning to use is *PostgreSQL*
-## Front-end page plan 
+### Front-end page plan 
 - The front end page we have planned for our project is Build with *Angular*
 - which is used to build single page applications which maintains the same view while navigating to other pages.  
-## Front-end responsive design 
+### Front-end responsive design 
 - The Front-end responsive design would be *Bootstrap*
 
-## E-R diagram displayed and described:
+### E-R diagram displayed and described:
 ![](ERDiagram.png "ERDiagram")
 
 ## Consistent set of sample data in Excel, use one sheet for each entity:
