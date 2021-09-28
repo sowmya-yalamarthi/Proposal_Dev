@@ -13,29 +13,29 @@
 
 ## Schedule:
 
- - ** Sprint-1 ** In the intial sprint we work with plan and all the basic reqirements gathering. 
+ - **Sprint-1** In the intial sprint we work with plan and all the basic reqirements gathering. 
 
-- ** Sprint-2 ** Enhancing and modifing the requirements and break them into functional requirements and then Building mockups and basic UI pages using Angular.
+- **Sprint-2** Enhancing and modifing the requirements and break them into functional requirements and then Building mockups and basic UI pages using Angular.
 
-- ** Sprint-3 ** Working with login and Authentication pages.
+- **Sprint-3** Working with login and Authentication pages.
 
  End of semester GDP-1
 
  GDP-2 
 
- - ** Sprint-4 ** Create Database models and schema
+ - **Sprint-4** Create Database models and schema
 
- - ** Sprint-5 ** Design web APIs
+ - **Sprint-5** Design web APIs
 
- - ** Sprint-6 ** Create APIs to fetch data from DB
+ - **Sprint-6** Create APIs to fetch data from DB
 
- - ** Sprint-7 ** Design all the UI pages based on requirements
+ - **Sprint-7** Design all the UI pages based on requirements
 
- - ** Sprint-8 ** Integration with both UI and backend.
+ - **Sprint-8** Integration with both UI and backend.
 
- - ** Sprint-9 ** Testing and fixing issues
+ - **Sprint-9** Testing and fixing issues
 
- - ** Sprint-10 ** Deployment of the application.
+ - **Sprint-10** Deployment of the application.
  
 
 
