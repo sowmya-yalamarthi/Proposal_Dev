@@ -45,11 +45,11 @@
  
 
 ## User interface sketches:
-![](LoginPage.png "loginpage")
-![](Register.png "RegisterPage ")
-![](submitimage.jpg "hand in hand out")
-![](Rentbooks.jpg "rent book page")
-![](sellbooks.jpg "sell book page")
+![](Images/LoginPage.png "loginpage")
+![](Images/Register.png "RegisterPage ")
+![](Images/submitimage.jpg "hand in hand out")
+![](Images/Rentbooks.jpg "rent book page")
+![](Images/sellbooks.jpg "sell book page")
 
 ## Technology stack descriptions:
 
