@@ -70,6 +70,16 @@
 ## Consistent set of sample data in Excel, use one sheet for each entity:
 
 ## Risks and assumptions:
+### Risks
+- Univeristy may not have all the books that are required for students.
+- Books may not be returned back from students on time.
+- Students may return damaged books to the library.
+### Assumptions
+- Students can easily access all the information about books.
+- Students have the option to sell there books to library.
+- Students can borrow books from library.
+- Opportunity to improve end-user experience.
+
 
 
 
