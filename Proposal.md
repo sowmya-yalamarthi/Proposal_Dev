@@ -71,7 +71,7 @@
 ![](ERDiagram.png "ERDiagram")
 
 ## Consistent set of sample data in Excel, use one sheet for each entity:
-
+![]( "ERDiagram")
 ## Risks and assumptions:
 ### Risks
 - Univeristy may not have all the books that are required for students.
