@@ -10,6 +10,12 @@
 - Students can easily sell their books to the university.
 - University can easily get more books, sometimes advanced editions from the students without spending more time to buy.
 
+## Epics / User Stories / Tasks:
+
+## Acceptance criteria checklist:
+
+## Contract scope / budget / schedule (2 semesters):
+
 
 ## Schedule:
 
@@ -38,9 +44,17 @@
  - **Sprint-10** Deployment of the application.
  
 
-
+## User interface sketches:
 ![](LoginPage.png "loginpage")
 ![](Register.png "RegisterPage ")
+
+## Technology stack descriptions:
+
+## E-R diagram displayed and described:
+
+## Consistent set of sample data in Excel, use one sheet for each entity:
+
+## Risks and assumptions:
 
 
 
