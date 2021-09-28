@@ -47,7 +47,7 @@
 ## User interface sketches:
 ![](LoginPage.png "loginpage")
 ![](Register.png "RegisterPage ")
-![](3.jpg "hand in hand out")
+![](submitimage.jpg "hand in hand out")
 ![](Rentbooks.jpg "rent book page")
 ![](sellbooks.jpg "sell book page")
 
