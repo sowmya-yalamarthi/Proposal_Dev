@@ -47,6 +47,9 @@
 ## User interface sketches:
 ![](LoginPage.png "loginpage")
 ![](Register.png "RegisterPage ")
+![](3.jpg "hand in hand out")
+![](Rent books.jpg "rent book page")
+![](sell books.jpg "sell book page")
 
 ## Technology stack descriptions:
 
