@@ -71,7 +71,11 @@
 ![](ERDiagram.png "ERDiagram")
 
 ## Consistent set of sample data in Excel, use one sheet for each entity:
-![]( "ERDiagram")
+![](Images/Registersheet.png " Register records")
+![](Images/BookReturns.png "book return records ")
+![](Images/Books.png " books records")
+![](Images/RentRecords.png "rent records ")
+![](Images/Appointment.png " appointemnt records")
 ## Risks and assumptions:
 ### Risks
 - Univeristy may not have all the books that are required for students.
