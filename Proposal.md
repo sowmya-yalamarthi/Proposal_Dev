@@ -22,7 +22,8 @@
  
 ## Acceptance criteria checklist:
 - User must be authorized in order to login to the Application
-- Application must be able to 
+- This application must be easily understandable and easily accessable to students.
+- while accepting to appointments students must provide valid information about books.
 
 ## Contract scope / budget / schedule (2 semesters):
 
