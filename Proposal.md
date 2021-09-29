@@ -12,7 +12,17 @@
 
 ## Epics / User Stories / Tasks:
 
+- Develop login/Register pages:
+    - develop UI pages for both login and register
+    - create tables based on the components in it
+    - create rest APIs for both of them
+- Develop three components for rent books,sell books and hand-out books
+- Create individual criterias for all the three components 
+- This application should be able to manage appointments which may be accepted or rejected based on the books availbility.
+ 
 ## Acceptance criteria checklist:
+- User must be authorized in order to login to the Application
+- Application must be able to 
 
 ## Contract scope / budget / schedule (2 semesters):
 
@@ -49,6 +59,8 @@
 ![](Register.png "RegisterPage ")
 
 ## Technology stack descriptions:
+
+
 
 ## E-R diagram displayed and described:
 

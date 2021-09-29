@@ -10,7 +10,7 @@
 ## Backend free app host 
 - The Backend app host for our project would be **HEROKU**
 ## Data host 
-- The data host we are planning to use is **Atlas MongoDB or SQL**
+- The data host we are planning to use is **PostgreSQL**
 ## Front-end page plan 
 - The front end page we have planned for our project is Build with **Angular**
 - which is used to build single page applications which maintains the same view while navigating to other pages.  
