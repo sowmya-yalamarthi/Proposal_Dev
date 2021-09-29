@@ -55,18 +55,50 @@
  
 
 ## User interface sketches:
-![](LoginPage.png "loginpage")
-![](Register.png "RegisterPage ")
+![](Images/LoginPage.png "loginpage")
+![](Images/Register.png "RegisterPage ")
+![](Images/submitimage.jpg "hand in hand out")
+![](Images/Rentbooks.jpg "rent book page")
+![](Images/sellbooks.jpg "sell book page")
 
 ## Technology stack descriptions:
 
 
+### Backend language + framework 
+- The backend language and framework we are using for our project would be *JAVA / Spring*
+- It is a fully optimized frame work which helps to maintain and modify requirements.
+
+### Backend free app host 
+- The Backend app host for our project would be *HEROKU*
+### Data host 
+- The data host we are planning to use is *PostgreSQL*
+### Front-end page plan 
+- The front end page we have planned for our project is Build with *Angular*
+- which is used to build single page applications which maintains the same view while navigating to other pages.  
+### Front-end responsive design 
+- The Front-end responsive design would be *Bootstrap*
+
 
 ## E-R diagram displayed and described:
+![](ERDiagram.png "ERDiagram")
 
 ## Consistent set of sample data in Excel, use one sheet for each entity:
-
+![](Images/Registersheet.png " Register records")
+![](Images/BookReturns.png "book return records ")
+![](Images/Books.png " books records")
+![](Images/RentRecords.png "rent records ")
+![](Images/Appointment.png " appointemnt records")
 ## Risks and assumptions:
+### Risks
+- Univeristy may not have all the books that are required for students.
+- Books may not be returned back from students on time.
+- Students may return damaged books to the library.
+### Assumptions
+- Students can easily access all the information about books.
+- Students have the option to sell there books to library.
+- Students can borrow books from library.
+- Opportunity to improve end-user experience.
+
 
 
 
