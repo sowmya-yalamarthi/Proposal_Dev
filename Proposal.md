@@ -4,7 +4,8 @@
 
  ## Overview:
  - We would like to develop an application that allows students to search for books they want to buy, rent, or check out, as well as sell them to the university. They will be given an appointment at their university library after filling out a form, where they can bring their book and sell it, which the admin will accept or reject depending on the book's availability.
- -Students can rent for books on certain price per day and for certain days based on the book that they select.
+ - Students can rent for books on certain price per day and for certain days based on the book that they select.
+ - By this application even university can get benifits such as, students sell their books which may be advanced editions and with low price which is saving time and money.
  
  ## Benefits:
 - This application would make it easy for students to check the availability of books that they would wish to check out or rent.
