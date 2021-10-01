@@ -19,6 +19,7 @@
     - create tables based on the components in it
     - create rest APIs for both of them
 - As a user, i want to be able to make an appointment to sell my book to the library.
+- As a user, i want to view different types of books that are available for different courses.
 - As an admin,I must be able to manage appointments which may be accepted or rejected based on the books availbility.
  
 ## Acceptance criteria checklist:
