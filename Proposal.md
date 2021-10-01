@@ -12,12 +12,11 @@
 
 ## Epics / User Stories / Tasks:
 
-- Develop login/Register pages:
+- As a user, i want register and then login to the application to view different ty[es of books available.
     - develop UI pages for both login and register
     - create tables based on the components in it
     - create rest APIs for both of them
-- Develop three components for rent books,sell books and hand-out books
-- Create individual criterias for all the three components 
+- As a user, i want to be able to make an appointment to sell my book to the library.
 - As an admin,I must be able to manage appointments which may be accepted or rejected based on the books availbility.
  
 ## Acceptance criteria checklist:
