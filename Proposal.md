@@ -4,6 +4,7 @@
 
  ## Overview:
  - We would like to develop an application that allows students to search for books they want to buy, rent, or check out, as well as sell them to the university. They will be given an appointment at their university library after filling out a form, where they can bring their book and sell it, which the admin will accept or reject depending on the book's availability.
+ -Students can rent for books on certain price per day and for certain days based on the book that they select.
  
  ## Benefits:
 - This application would make it easy for students to check the availability of books that they would wish to check out or rent.
@@ -29,40 +30,39 @@
 
 ## Schedule:
 
-- **Sprint-1** (Start Date: 4th October 2021 - 18th October 2021)
+- **Sprint-1** (Start Date: 11th October 2021 - 25th October 2021)
    - In the intial sprint we work with plan and all the basic reqirements gathering. 
 
-- **Sprint-2** (Start Date: 18th October 2021 - 1st November 2021)
+- **Sprint-2** (Start Date: 25th October 2021 - 8th November 2021)
    - Enhancing and modifing the requirements and break them into functional requirements.
-- **Sprint-3** (Start Date: 1st November 2021 - 15th November 2021)
+
+- **Sprint-3** (Start Date: 8th November 2021 - 22nd November 2021)
    - Building mockups and basic UI pages using Angular.
 
-- **Sprint-4**  (Start Date: 15th November 2021 - 29th November 2021)
-   - Working with login and Authentication pages.
 
  End of semester GDP-1
 
  GDP-2 
-
- - **Sprint-5**  (Start Date: 12th January 2022 - 26th January 2022)
+ 
+ - **Sprint-4**  (Start Date: 12th January 2022 - 26th January 2022)
     - Create Database models and schema
 
- - **Sprint-6** (Start Date: 26th January 2022 - 9th february 2022)
-    - Design web APIs
+ - **Sprint-5** (Start Date: 26th January 2022 - 9th february 2022)
+    - Working with login and Authentication pages.Design web APIs
 
- - **Sprint-7** (Start Date: 9th February 2022 - 23rd February 2022)
+ - **Sprint-6** (Start Date: 9th February 2022 - 23rd February 2022)
     - Create APIs to fetch data from DB
 
- - **Sprint-8** (Start Date: 23rd February 2022 - 9th March 2022)
+ - **Sprint-7** (Start Date: 23rd February 2022 - 9th March 2022)
     - Design all the UI pages based on requirements
 
- - **Sprint-9** (Start Date: 9th March 2022 - 23rd March 2022)
+ - **Sprint-8** (Start Date: 9th March 2022 - 23rd March 2022)
     - Integration with both UI and backend.
 
- - **Sprint-10** (Start Date: 23rd march 2022 - 6th April 2022)
+ - **Sprint-9** (Start Date: 23rd march 2022 - 6th April 2022)
     - Testing and fixing issues
 
- - **Sprint-11** (Start Date: 6th April 2022 - 20th April 2022)
+ - **Sprint-10** (Start Date: 6th April 2022 - 20th April 2022)
     - Deployment of the application.
  
 
