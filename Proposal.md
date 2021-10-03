@@ -28,6 +28,10 @@
 - while accepting to appointments students must provide valid information about books.
 
 ## Contract scope / budget / schedule (2 semesters):
+## Scope:
+- This application provides students to view books that are available for thier respective courses and books that are available to rent and hand-out.
+- Through this application students can even sell thier books to the university by adding the books information in a form and then they should schedule an appointment, which may be accepted or rejected by the university library based on the book quality and availability.
+- Here we won't provide any transactions for selling books, as the books can be only sold in person.
 ## Budget:
 ![](Images/budget.PNG "Budget")
 
