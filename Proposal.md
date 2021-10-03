@@ -29,7 +29,7 @@
 
 ## Contract scope / budget / schedule (2 semesters):
 ## Budget:
-![](Images/budget.PNG"Budget")
+![](Images/budget.PNG "Budget")
 
 ## Schedule:
 
