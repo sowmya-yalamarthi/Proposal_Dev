@@ -28,7 +28,8 @@
 - while accepting to appointments students must provide valid information about books.
 
 ## Contract scope / budget / schedule (2 semesters):
-
+## Budget:
+![](Images/budget.PNG"Budget")
 
 ## Schedule:
 
