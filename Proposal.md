@@ -15,23 +15,23 @@
 ## Epics / User Stories / Tasks:
 
 - As a user, i want register and then login to the application to view different types of books available.
-    - develop UI pages for both login and register
-    - create tables based on the components in it
-    - create rest APIs for both of them
-     
-## Acceptance criteria checklist:
-- User must be authorized in order to login to the Application
+    
+   ### Acceptance criteria checklist:
+   - User must be authorized in order to login to the Application
 ## User Stories: 
 - As a user, i want to be able to make an appointment to sell my book to the library.
  
-## Acceptance criteria checklist:
-- In order to accept or reject Appointments, students must fill a form about book that they want to sell. 
+   ### Acceptance criteria checklist:
+   - Users are able to book an appointment only when they select any book to rent hand-out or sell . 
 ## User Stories: 
 - As a user, i want to view different types of books that are available for different courses.
  
-## Acceptance criteria checklist:
-- To view books that are available 
+   ### Acceptance criteria checklist:
+   - To view books that are available for different courses, user must select the course.
+## User Stories: 
 - As an admin,I must be able to manage appointments which may be accepted or rejected based on the books availbility.
+   ### Acceptance criteria checklist:
+   - In order to accept or reject Appointments, students must fill a form about book that they want to sell.
  
 ## Acceptance criteria checklist:
 - User must be authorized in order to login to the Application
