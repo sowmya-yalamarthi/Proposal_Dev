@@ -39,9 +39,33 @@
 - while accepting to appointments students must provide valid information about books.
 
 ## Functional Requirements:
-## Performance Requirements:
-## Other Requirements:
+- Only authentic user must have the access to the system.
+- Only the user must be able to provide the information related to the books.
+- System must be able to:
+   - Provide the information regarding books.
+   - Search for the required books from database.
+   - Add new book to the database.
+   - Update the number of books in database.
+   - Enter data of issued book in Database.
+   - Information of returned books.
+- User must have the knowledge about the no of copies of a book.
+- Same Id’s for 2 or more books shall not be allowed.
+- User must check if the book is available or not before issuing.
+- User must enter issue and return date in database.
 
+## Performance Requirements:
+- The performance of the system should be fast and accurate.
+- Hand-In Hand-Out shall handle expected and non-expected errors in ways that prevent loss in information.
+- Testing to identify invalid username/password.
+- The system should be able to handle large amount of data. Thus it should accommodate high number of books and users without any fault
+
+## Other Requirements:
+-  System will use secured database.
+- System will have different types of users and every user has access constraints.
+- Proper user authentication should be provided.
+- There should be separate accounts for admin and members such that no member can access the database and only admin has the rights to update the database.
+- The project should be open source.
+- The Quality of the database is maintained in such a way so that it can be very user friendly to all the users of the database.
 
 ## User interface sketches:
 ![](Images/LoginPage.png "loginpage")
@@ -76,9 +100,6 @@
 - which is used to build single page applications which maintains the same view while navigating to other pages.  
 ### Front-end responsive design 
 - The Front-end responsive design would be **Bootstrap**
-
-
-
 
 ## Risks and assumptions:
 ### Risks
