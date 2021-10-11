@@ -17,12 +17,14 @@
 - As a user, i want register and then login to the application to view different types of books available.
     
    ### Acceptance criteria checklist:
-   - User must be authorized in order to login to the Application
+   - User must be authorized in order to login to the Application.
+   - User should register first with all the details and then login to the application.
 ## User Stories: 
 - As a user, i want to be able to make an appointment to sell my book to the library.
  
    ### Acceptance criteria checklist:
    - Users are able to book an appointment only when they select any book to rent hand-out or sell . 
+
 ## User Stories: 
 - As a user, i want to view different types of books that are available for different courses.
  
@@ -111,8 +113,10 @@
 
 
 ## Scope:
+### Do's:
 - This application provides students to view books that are available for thier respective courses and books that are available to rent and hand-out.
 - Through this application students can even sell thier books to the university by adding the books information in a form and then they should schedule an appointment, which may be accepted or rejected by the university library based on the book quality and availability.
+### Dont's:
 - Here we won't provide any transactions for selling books, as the books can be only sold in person.
 
 ## Milestones:
