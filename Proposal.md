@@ -33,11 +33,6 @@
    ### Acceptance criteria checklist:
    - In order to accept or reject Appointments, students must fill a form about book that they want to sell.
  
-## Acceptance criteria checklist:
-- User must be authorized in order to login to the Application
-- This application must be easily understandable and easily accessable to students.
-- while accepting to appointments students must provide valid information about books.
-
 ## Functional Requirements:
 - Only authentic user must have the access to the system.
 - Only the user must be able to provide the information related to the books.
@@ -127,6 +122,9 @@
 
 - **Sprint-1** (Start Date: 11th October 2021 - 25th October 2021)
    - In the intial sprint we work with plan and all the basic reqirements gathering. 
+   - ER diagrams implementation
+   - Database design 
+   - creating required tables
 
 - **Sprint-2** (Start Date: 25th October 2021 - 8th November 2021)
    - Enhancing and modifing the requirements and break them into functional requirements.
