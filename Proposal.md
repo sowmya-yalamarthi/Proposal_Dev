@@ -14,23 +14,24 @@
 
 ## Epics / User Stories / Tasks:
 
+## User Story:
 - As a user, i want register and then login to the application to view different types of books available.
     
    ### Acceptance criteria checklist:
    - User must be authorized in order to login to the Application.
    - User should register first with all the details and then login to the application.
-## User Stories: 
+## User Story: 
 - As a user, i want to be able to make an appointment to sell my book to the library.
  
    ### Acceptance criteria checklist:
    - Users are able to book an appointment only when they select any book to rent hand-out or sell . 
 
-## User Stories: 
+## User Story: 
 - As a user, i want to view different types of books that are available for different courses.
  
    ### Acceptance criteria checklist:
    - To view books that are available for different courses, user must select the course.
-## User Stories: 
+## User Story: 
 - As an admin,I must be able to manage appointments which may be accepted or rejected based on the books availbility.
    ### Acceptance criteria checklist:
    - In order to accept or reject Appointments, students must fill a form about book that they want to sell.
@@ -57,7 +58,7 @@
 - The system should be able to handle large amount of data. Thus it should accommodate high number of books and users without any fault
 
 ## Other Requirements:
--  System will use secured database.
+- System will use secured database.
 - System will have different types of users and every user has access constraints.
 - Proper user authentication should be provided.
 - There should be separate accounts for admin and members such that no member can access the database and only admin has the rights to update the database.
@@ -86,7 +87,7 @@
 
 ### Backend language + framework 
 - The backend language and framework we are using for our project would be **JAVA / Spring**
-- It is a fully optimized frame work which helps to maintain and modify requirements.
+- Spring Boot is an open source Java-based framework. It is a fully optimized frame work which helps to maintain and modify requirements.
 
 ### Backend free app host 
 - The Backend app host for our project would be **HEROKU**
@@ -94,7 +95,7 @@
 - The data host we are planning to use is **PostgreSQL**
 ### Front-end page plan 
 - The front end page we have planned for our project is Build with **Angular**
-- which is used to build single page applications which maintains the same view while navigating to other pages.  
+- Angular is a fully-fledged responsive web design framework, which is used to build single page applications which maintains the same view while navigating to other pages. Angular is built with TypeScript  
 ### Front-end responsive design 
 - The Front-end responsive design would be **Bootstrap**
 
