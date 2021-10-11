@@ -113,13 +113,17 @@
 
 
 ## Scope:
-### Do's:
+ #### Do's:
 - This application provides students to view books that are available for thier respective courses and books that are available to rent and hand-out.
 - Through this application students can even sell thier books to the university by adding the books information in a form and then they should schedule an appointment, which may be accepted or rejected by the university library based on the book quality and availability.
-### Dont's:
+ #### Dont's:
 - Here we won't provide any transactions for selling books, as the books can be only sold in person.
 
 ## Milestones:
+- UI implementation
+- Developing API's
+- Successfull Database Design and implementation
+- Backend and Database integration
 
 
 ## Schedule and Iteration Plan:
