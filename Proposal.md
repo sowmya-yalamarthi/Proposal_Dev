@@ -18,10 +18,16 @@
 - As a user, i want register and then login to the application to view different types of books available.
     
    ### Acceptance criteria checklist:
-   - User must be authorized in order to login to the Application.
    - User should register first with all the details and then login to the application.
+   - User must be authorized in order to login to the Application.
+
 ## User Story: 
-- As a user, i want to be able to make an appointment to sell my book to the library.
+- As a user, i want to be able to check the books that are available to rent .
+ 
+   ### Acceptance criteria checklist:
+   - To view available books for rent that includes price per day to rent the book.
+## User Story: 
+- As a user, i want to be able to make an appointment to sell my book to the library .
  
    ### Acceptance criteria checklist:
    - Users are able to book an appointment only when they select any book to rent hand-out or sell . 
@@ -121,7 +127,8 @@
 - Here we won't provide any transactions for selling books, as the books can be only sold in person.
 
 ## Milestones:
-- UI implementation
+- Implementing prototypes (10th december 2021)
+- Database Design (26th January 2022)
 - Developing API's
 - Successfull Database Design and implementation
 - Backend and Database integration
@@ -129,16 +136,16 @@
 
 ## Schedule and Iteration Plan:
 
-- **Sprint-1** (Start Date: 11th October 2021 - 25th October 2021)
+- **Sprint-1** (Start Date: 18th October 2021 - 1st November 2021)
    - In the intial sprint we work with plan and all the basic reqirements gathering. 
    - ER diagrams implementation
    - Database design 
    - creating required tables
 
-- **Sprint-2** (Start Date: 25th October 2021 - 8th November 2021)
+- **Sprint-2** (Start Date: 1st November 2021 - 15th November 2021)
    - Enhancing and modifing the requirements and break them into functional requirements.
 
-- **Sprint-3** (Start Date: 8th November 2021 - 22nd November 2021)
+- **Sprint-3** (Start Date: 15th November 2021 - 29nd November 2021)
    - Building mockups and basic UI pages using Angular.
 
 
