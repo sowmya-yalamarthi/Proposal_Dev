@@ -117,7 +117,14 @@
 - Opportunity to improve end-user experience.
 
 ## Deliverable Artifacts:
-
+- Project Plan
+- Login and RegisterModule
+   - Creating login and register page using Angular
+- Developing API's 
+   - To add data to the database
+- Database Integration
+   - Connecting backend to the database
+- Testing
 
 ## Scope:
  #### Do's:
@@ -184,6 +191,7 @@
      - Test strategy might be analytical or model based.
    - Test Coverage
    - Test Cycles and Durations
-   - Pass/Fail Criteria
+   - Test Cases Pass/Fail Criteria
    - Business and Technical Requirements
+
 
