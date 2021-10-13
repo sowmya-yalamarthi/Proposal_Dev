@@ -127,12 +127,13 @@
 - Here we won't provide any transactions for selling books, as the books can be only sold in person.
 
 ## Milestones:
-- Implementing prototypes (10th december 2021)
-- Database Design (26th January 2022)
-- Developing API's
-- Successfull Database Design and implementation
-- Backend and Database integration
-
+- Implementing Static UI Pages (10th November 2021)
+- Database Design (5th December 2021)
+- Developing API's (26th January 2022)
+- Successfull Database Design and implementation (5th February 2022)
+- Backend and Database integration (1st March 2022)
+- Testing Application (15th April 2022)
+- Final Project Delivery (30th April 2022)
 
 ## Schedule and Iteration Plan:
 
