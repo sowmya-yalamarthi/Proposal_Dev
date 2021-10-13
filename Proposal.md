@@ -178,4 +178,11 @@
 ![](Images/budget.PNG "Budget")
 
 ## Test plan with Requirements:
+- The components that involve in test plan are:
+   - Test Strategy
+     - Test strategy might be analytical or model based.
+   - Test Coverage
+   - Test Cycles and Durations
+   - Pass/Fail Criteria
+   - Business and Technical Requirements
 
